@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Native</title>
+    <title>[Job Title] - Native</title>
     <style>
         body {
             font-family: Courier, monospace;
@@ -26,14 +26,35 @@
 </head>
 <body>
 <pre>
-Native
-======
+[Job Title] at Native
+=====================
 
-This is a simple plaintext website for Native.
+<a href="careers.html">Back to Careers</a>
 
-<a href="careers.html">Careers</a>
+Job Description:
+----------------
+[Detailed description of the job role, responsibilities, 
+and expectations.]
 
-Contact: contact@native.inc
+Requirements:
+-------------
+- [Requirement 1]
+- [Requirement 2]
+- [Requirement 3]
+- [Requirement 4]
+
+Qualifications:
+---------------
+- [Qualification 1]
+- [Qualification 2]
+- [Qualification 3]
+
+How to Apply:
+-------------
+Please send your resume and cover letter to:
+careers@native.inc
+
+Include "[Job Title]" in the subject line of your email.
 
 ---
 © 2024 Native. All rights reserved.
